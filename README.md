@@ -6,7 +6,7 @@ Nim : 311910593
 
 Kelas : TI.19.C1
 
-# Tampilan Home,About dan Kontak 
+# _Tampilan Home,About dan Kontak 
 
 ![1](https://user-images.githubusercontent.com/56387936/121695756-8f01f300-caf5-11eb-985c-602e5ae1a676.JPG)
 
@@ -14,7 +14,7 @@ Kelas : TI.19.C1
 
 ![3](https://user-images.githubusercontent.com/56387936/121696020-d6887f00-caf5-11eb-9344-3dfdddaeec7a.JPG)
 
-# Tampilan Index,Tambah dan Ubah 
+# _Tampilan Index,Tambah dan Ubah 
 
 ![4](https://user-images.githubusercontent.com/56387936/121696198-046dc380-caf6-11eb-8087-27425aa20faa.JPG)
 
